@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.52a3f04d.css",
-    "main.js": "/repository-name/static/js/main.c267b971.js",
-    "static/js/453.ad6eb26e.chunk.js": "/repository-name/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "/repository-name/index.html",
-    "main.52a3f04d.css.map": "/repository-name/static/css/main.52a3f04d.css.map",
-    "main.c267b971.js.map": "/repository-name/static/js/main.c267b971.js.map",
-    "453.ad6eb26e.chunk.js.map": "/repository-name/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "//michaelkasi.github.io/resteasy/static/css/main.52a3f04d.css",
+    "main.js": "//michaelkasi.github.io/resteasy/static/js/main.59aeda4e.js",
+    "static/js/453.ad6eb26e.chunk.js": "//michaelkasi.github.io/resteasy/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "//michaelkasi.github.io/resteasy/index.html",
+    "main.52a3f04d.css.map": "//michaelkasi.github.io/resteasy/static/css/main.52a3f04d.css.map",
+    "main.59aeda4e.js.map": "//michaelkasi.github.io/resteasy/static/js/main.59aeda4e.js.map",
+    "453.ad6eb26e.chunk.js.map": "//michaelkasi.github.io/resteasy/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52a3f04d.css",
-    "static/js/main.c267b971.js"
+    "static/js/main.59aeda4e.js"
   ]
 }
